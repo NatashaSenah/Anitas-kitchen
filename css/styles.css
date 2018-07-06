@@ -1,0 +1,40 @@
+#head{
+  text-align: center;
+  background-image: url("../images/landing.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+p{
+  color:white;
+}
+#Breakfast{
+  background-image: url("../images/breakfast.jpg");
+  text-align:center;
+  color:white;
+  padding-bottom: 140px;
+}
+#Lunch{
+  background-image: url("../images/lunch.jpg");
+  text-align:center;
+  color:white;
+  padding-bottom:140px;
+}
+#Dinner{
+  background-image: url("../images/dinner.jpg");
+  text-align:center;
+  color:white;
+  padding-bottom:140px;
+}
+#talk{
+  text-align: center;
+  background-image: url("../images/foodsBg.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top:100px;
+  padding-bottom:100px;
+}
+.cnt{
+  background-color: white;
+}
