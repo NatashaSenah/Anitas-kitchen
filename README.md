@@ -14,7 +14,7 @@ Slight problem of arrangement of divs.
 ## Technologies Used
 HTML,W3schools & CSS.
 ## Support and contact details
-Call:0766889933/E-mail:tashsenah@gmail.com
+Call:0766889933
 ### License
 Copyright 2018 Natasha Senah
 
